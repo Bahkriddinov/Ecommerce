@@ -1,0 +1,79 @@
+{
+    "trend_automobiles": [
+      {
+        "brand": "Tesla",
+        "model": "Model S Plaid",
+        "year": 2024,
+        "color": "Red",
+        "price": "$130,000",
+        "image": "https://motor.ru/imgs/2021/10/14/11/4958541/4e5e14b051a1a4545cfbc0b0823e8fd28d34ee2f.jpg"
+      }
+    ],
+    "trend_clothes": [
+      {
+        "brand": "Gucci",
+        "item": "Leather Jacket",
+        "color": "Black",
+        "size": "M",
+        "price": "$3,500",
+        "image": "https://example.com/gucci_leather_jacket.jpg"
+      }
+    ],
+    "home_interiors": [
+      {
+        "type": "Sofa",
+        "style": "Mid-Century Modern",
+        "color": "Gray",
+        "price": "$1,500",
+        "image": "https://example.com/mid_century_sofa.jpg"
+      }
+    ],
+    "computer_tech": [
+      {
+        "brand": "Apple",
+        "product": "MacBook Pro",
+        "year": 2023,
+        "specs": "16GB RAM, 1TB SSD, M1 Pro chip",
+        "price": "$2,499",
+        "image": "https://example.com/macbook_pro.jpg"
+      }
+    ],
+    "tools_equipment": [
+      {
+        "type": "Power Drill",
+        "brand": "DeWalt",
+        "model": "DCK299D1T1",
+        "price": "$299",
+        "image": "https://example.com/dewalt_drill.jpg"
+      }
+    ],
+    "sports_outdoors": [
+      {
+        "type": "Mountain Bike",
+        "brand": "Trek",
+        "model": "Fuel EX 9.8 XT",
+        "price": "$5,199",
+        "image": "https://example.com/trek_mountain_bike.jpg"
+      }
+    ],
+    "animals_pets": [
+      {
+        "type": "Dog",
+        "breed": "Labrador Retriever",
+        "color": "Yellow",
+        "age": 2,
+        "price": "$800",
+        "image": "https://example.com/labrador_retriever.jpg"
+      }
+    ],
+    "machinery_tools": [
+      {
+        "type": "Excavator",
+        "brand": "Caterpillar",
+        "model": "320GC",
+        "price": "$180,000",
+        "image": "https://example.com/caterpillar_excavator.jpg"
+      }
+    ]
+  }
+  

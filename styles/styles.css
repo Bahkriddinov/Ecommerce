@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+nav {
+  width: 100%;
+  height: 86px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+nav form {
+  max-width: 665px;
+  display: flex;
+  border: 2px solid #127FFF;
+  border-radius: 8px;
+}
+nav form input {
+  width: 550px;
+  padding: 8px;
+  border: none;
+  border-radius: inherit;
+  border: none;
+  outline-color: #127FFF;
+}
+nav form select {
+  border-radius: inherit;
+  padding: 10px;
+  outline: none;
+  border: none;
+  border-left: none;
+}
+nav .navcontrol-btn {
+  display: flex;
+}
+nav .navcontrol-btn i {
+  font-size: 22px;
+  color: #8B96A5;
+  padding: 10px;
+}
+
+header {
+  max-width: 85%;
+  height: 500px;
+  border-radius: 6px;
+  border: 2px solid #8B96A5;
+  padding: 10px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 20% 65% 15%;
+  align-items: center;
+}
+header .header-nav ul {
+  list-style: none;
+}
+header .header-nav ul li {
+  line-height: 40px;
+}
+header .header-nav ul li a {
+  color: #8B96A5;
+  text-decoration: none;
+}
+header .header--hero {
+  background-color: #BDC4CD;
+  height: 95%;
+  border-radius: inherit;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header .header--hero div {
+  margin: 50px;
+}
+header .header--hero .description h2 {
+  font-size: 45px;
+}
+header .header--hero .img-blc img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 12px;
+}/*# sourceMappingURL=styles.css.map */
